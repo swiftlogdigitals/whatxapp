@@ -19,3 +19,4 @@ Thumbs.db
 
 # uploads (if app stores files locally)
 uploads/
+node_modules
